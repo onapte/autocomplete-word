@@ -1,4 +1,4 @@
-# Autocomplete System using Trie
+# Autocomplete word using Trie
 
 ## Overview
 
