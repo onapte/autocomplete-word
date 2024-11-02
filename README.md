@@ -23,8 +23,8 @@ To run this project, you will need:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/autocomplete_project.git
-   cd autocomplete_project
+   git clone https://github.com/onapte/autocomplete-word.git
+   cd autocomplete-word
 2. **Compile the Code**:
    If you have the `Makefile`, simply run:
    ```bash
